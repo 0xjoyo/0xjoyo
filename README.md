@@ -6,10 +6,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🛡️ **Cybersecurity** beginner
 - 🐍 Learning **Python**
 - 🌐 Learning **Networking basics & Bash**
-- 🔴 Interested in **Red Teaming**
 - 🇯🇵 Building a **Japanese learning system**
 - 📚 Always learning | Always breaking things
 
@@ -21,11 +19,6 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xjoyo&theme=tokyonight)
 
----
-
-## 🎯 Hack The Box
-
-[![HTB](https://img.shields.io/badge/HackTheBox-j0y0-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c673f-883f-7264-8a48-a078962bdce2)
 
 ---
 
