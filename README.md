@@ -2,6 +2,8 @@
 
 I'm building a strong foundation in Computer Science with a focus on **AI and Machine Learning**.
 
+[![Visitors](https://count.getloli.com/@Joseoh-yo?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/@Joseoh-yo)
+
 ## Current Focus
 
 - Python
@@ -39,6 +41,10 @@ I’m currently rebuilding my portfolio around practical projects and documentin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/448138468829167616)](https://discord.com/users/448138468829167616)
 
 ## Learning Philosophy
 
