@@ -1,4 +1,4 @@
-# Youseef — AI / Computer Science
+# Youssef — AI / Computer Science
 
 I'm building a strong foundation in **Computer Science** with a focus on **AI and Machine Learning**.
 
