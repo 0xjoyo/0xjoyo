@@ -1,6 +1,6 @@
 # Youssef — AI / Social Data Science
 
-I'm building a strong foundation in **Computer Science** with a focus on **AI and Machine Learning**.
+I'm building a strong foundation in **Social Data Science** with a focus on **AI and Machine Learning**.
 
 ## Projects
 
