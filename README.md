@@ -1,17 +1,16 @@
-# Hi, I'm Youssef
+# hey, i'm youssef 👋
 
-I'm learning **Python, data analysis, and machine learning**, with a growing interest in **Social Data Science**.
+i'm learning **Python, data analysis, and machine learning** — and i'm especially curious about **Social Data Science**.
 
-## What I'm Focusing On
+right now i'm mostly practicing with data and running small ML experiments (including some **CatBoost**). still learning, still breaking things, still figuring out why they work 🙂
 
-- Practicing Python and working with data using **NumPy**, **pandas**, and **Matplotlib**
-- Learning machine learning through small experiments with tabular data, including **CatBoost**
-- Building my foundations in statistics, linear algebra, and problem solving
+### what i'm learning
+- 🐍 Python, pandas, NumPy, and Matplotlib
+- 🤖 machine learning on tabular data
+- 📚 statistics, linear algebra, and problem solving
 
-## Projects
+### projects
+most of my work is still experiments and learning projects, so i'll add things here when they're ready to share.
 
-Most of my current work is learning exercises and experiments. I'll add projects here when they're ready to share.
-
-## Discord Activity
-
+### discord activity
 [![Discord Activity](https://lanyard.cnrad.dev/api/448138468829167616)](https://discord.com/users/448138468829167616)
