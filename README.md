@@ -1,15 +1,17 @@
-# Youssef — AI / Social Data Science
+# Hi, I'm Youssef
 
-I'm building a strong foundation in **Social Data Science** with a focus on **AI and Machine Learning**.
+I'm learning **Python, data analysis, and machine learning**, with a growing interest in **Social Data Science**.
+
+## What I'm Focusing On
+
+- Practicing Python and working with data using **NumPy**, **pandas**, and **Matplotlib**
+- Learning machine learning through small experiments with tabular data, including **CatBoost**
+- Building my foundations in statistics, linear algebra, and problem solving
 
 ## Projects
 
-I'm building practical projects and documenting what I learn along the way.
+Most of my current work is learning exercises and experiments. I'll add projects here when they're ready to share.
 
-## Learning Philosophy
+## Discord Activity
 
-I prefer learning by building, experimenting, breaking things, and understanding why they work.
-
-## Discord Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/448138468829167616)](https://discord.com/users/448138468829167616)
+[![Discord Activity](https://lanyard.cnrad.dev/api/448138468829167616)](https://discord.com/users/448138468829167616)
